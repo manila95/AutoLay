@@ -2,6 +2,8 @@
 # AutoLay: Benchmarking Monocular Layout Estimation
 #### Kaustubh Mani, N. Sai Shankar, [J. Krishna Murthy](https://krrish94.github.io), and [K. Madhava Krishna](http://robotics.iiit.ac.in)
 
+**For more details, and to download the full dataset, please visit [https://autolay.github.io/](https://autolay.github.io/)**
+
 
 ## Abstract
 
@@ -19,6 +21,7 @@ We use 32 video sequences from the KITTI Raw dataset in AutoLay. We provide per-
 in perspective, orthographic (bird’s eye view), as well as in 3D. Of the 32 annotated sequences, 17 sequences-containing 7414 images—are used for training. The other 15 sequences—comprising 4438 images—form the test set. This makes for nearly 12K annotated images, across a distance of 9.5 Km, and a variety of urban scenarios (residential, urban, road). The semantic classes considered in this dataset are road, sidewalk, vehicle, crosswalk, and lane. Each lane segment is provided a unique id, which we classify further. The lane class is further classified as ego-lane and other lane. We also have an other road class for road areas that do not fall under any of the above categories.
 
 **Sample dataset can be downloaded from [here](https://drive.google.com/file/d/1u7EQJEM9nmDeLuMd4AvcqllJUWOAQ3rS/view?usp=sharing).**
+**To download the full dataset, please visit [our webpage](https://autolay.github.io/).**
 
 
 
